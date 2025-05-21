@@ -1,24 +1,13 @@
-# README
+##Author's technical configuration:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby 3.0.0
 
-Things you may want to cover:
+Rails 7.1.3.2
 
-* Ruby version
+Mac OS Montery 12.7.4
 
-* System dependencies
+##Terminal commands to run application:
 
-* Configuration
+rails s for run local server
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails c to open app console
