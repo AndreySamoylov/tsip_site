@@ -48,3 +48,6 @@ nb-configuration.xml
 
 # Open server
 .osp/
+
+# Ignore master key for decrypting credentials and more.
+OldMovies/.DS_Store

@@ -1,0 +1,2 @@
+class FilmsActor < ApplicationRecord
+end
