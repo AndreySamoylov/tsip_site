@@ -41,9 +41,9 @@ nb-configuration.xml
 
 
 # игнорируем папку битрикс
-/bitrix
-/robots.txt
-/upload
+/www/bitrix
+/www/robots.txt
+/www/upload
 
 
 # Open server
