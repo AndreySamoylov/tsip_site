@@ -48,3 +48,6 @@ nb-configuration.xml
 
 # Open server
 .osp/
+
+# Игнорируем .DS_Store
+.DS_Store
