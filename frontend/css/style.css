@@ -49,3 +49,9 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
