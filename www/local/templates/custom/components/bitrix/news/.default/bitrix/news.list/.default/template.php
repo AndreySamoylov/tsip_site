@@ -18,11 +18,6 @@ $this->setFrameMode(true);
 if (empty($arResult["ITEMS"])) {
     return;
 }
-
-//echo '<pre>';
-//print_r($arResult);
-//echo '</pre>';
-
 ?>
 
 <div class="movie-list">
